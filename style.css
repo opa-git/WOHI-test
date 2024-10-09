@@ -1,0 +1,26 @@
+div {
+    margin: 10px;
+}
+img {
+    float: right, margin: 20px;
+}
+u {
+    color:rgb(172, 74, 139)
+}
+b {
+    font-family:monospace;
+}
+body {
+    background-color: rgb(238, 207, 222);
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    filter: invert(100%);
+}
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+.navbar {
+    background: rgb(226, 179, 107);
+}
