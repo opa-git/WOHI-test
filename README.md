@@ -1,2 +1,2 @@
 # WOHI-test
-trying git in class opa-git
+trying git in class
