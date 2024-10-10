@@ -1,2 +1,2 @@
 # WOHI-test
-trying git in class 2024
+trying git in class opa-git 2024
